@@ -32,7 +32,7 @@ Update `claude_desktop_config.json`
 {
   "mcpServers": {
     "indiepitcher-server": {
-      "command": "/[replace this part]/indiepitcher-mcp/.build/debug/indiepitcher-mcp",
+      "command": "/[replace this part]/indiepitcher-mcp/.build/release/indiepitcher-mcp",
       "args": []
     }
   }
