@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:indiepitcher-mcp}",
+            "name": "Debug indiepitcher-mcp",
+            "program": "${workspaceFolder:indiepitcher-mcp}/.build/debug/indiepitcher-mcp",
+            "preLaunchTask": "swift: Build Debug indiepitcher-mcp"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:indiepitcher-mcp}",
+            "name": "Release indiepitcher-mcp",
+            "program": "${workspaceFolder:indiepitcher-mcp}/.build/release/indiepitcher-mcp",
+            "preLaunchTask": "swift: Build Release indiepitcher-mcp"
+        }
+    ]
+}
