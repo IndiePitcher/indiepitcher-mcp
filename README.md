@@ -3,6 +3,10 @@ IndiePitcher MCP server
 
 This is heavily WIP
 
+- [ ] Actually integrate IndiePitcher SDK to send actual email
+- [ ] Implement passing of IndiePitcher API key
+- [ ] Figure out deployment to smithery.ai
+
 ## How to use locally
 
 ### Build the server
